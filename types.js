@@ -43,7 +43,7 @@ let p = { job: 'web Dev' };
 
 let q = p;
 // q = p;
-q.jop = 'front End Dev';
+q.jop = 'front End Dev'
 // q = { job: 'back Dev' };
 console.log(p, q);
 
